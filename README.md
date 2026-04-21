@@ -1,5 +1,5 @@
 # basic-agent-sample
-A very basic agent in Python to let you understand how does agents work
+A very basic agent in Python to let you understand how does agents work.
 The sample uses LM Studio or Ollama as LLM models
 
 ## Installation
